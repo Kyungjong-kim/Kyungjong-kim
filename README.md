@@ -1,13 +1,11 @@
 ![banner](./banner.png)
 
-## Hi, I'm Kyungjong 👋
+<br>
 
-Frontend Engineer building products with React & TypeScript.  
-Currently focused on AI workflow automation with Claude Code.
+I build web products with React & TypeScript.
+These days I'm into automating dev workflows with Claude Code.
 
 ---
-
-**Tech Stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -17,10 +15,10 @@ Currently focused on AI workflow automation with Claude Code.
 
 ---
 
-**Currently Building**
+**Building**
 
-🔧 Claude Code 하네스 — 팀 개발 워크플로 자동화 도구 (OSS 준비 중)
+claude-code-harness — tooling to skip the painful Claude Code setup for teams
 
 ---
 
-📝 [velog.io/@kyungjong_dev](https://velog.io/@kyungjong_dev)
+[velog.io/@kyungjong_dev](https://velog.io/@kyungjong_dev)
