@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 ## Hi, I'm Kyungjong 👋
 
 Frontend Engineer building products with React & TypeScript.  
